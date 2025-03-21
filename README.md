@@ -7,7 +7,8 @@ It is built using **Gradio** and powered by **fine-tuned LLaMA 2-7B and T5 model
 ---
 
 ## 🎥 **Chatbot Demo**
-<video src="https://raw.githubusercontent.com/satyamtripathi8/Nagrik-Mitra-Constitutional-Chatbot/main/Chatbot_working.mp4" controls width="600"></video>
+[![Chatbot Demo](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://github.com/satyamtripathi8/Nagrik-Mitra-Constitutional-Chatbot/blob/main/Chatbot_working.mp4)
+
 
 ---
 
