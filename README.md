@@ -7,7 +7,7 @@ It is built using **Gradio** and powered by **fine-tuned LLaMA 2-7B and T5 model
 ---
 
 ## 🎥 **Chatbot Demo**
-  <source src="https://github.com/user-attachments/assets/fe7030b9-dc93-439c-8498-9c683967f7a2" type="video/mp4">
+https://github.com/user-attachments/assets/fe7030b9-dc93-439c-8498-9c683967f7a2
 
 ---
 
